@@ -1,4 +1,4 @@
-![CleanShot 17-11-2024--at 5 -23-59](https://github.com/user-attachments/assets/25034622-4fea-4ea1-83a3-bb9fc67d3b66)# Bookstore E-Commerce Website
+# Bookstore E-Commerce Website
 
 ## Repository Link
 [Bookstore Website](https://github.com/CoutProgramming/Bookstore_Website.git)
