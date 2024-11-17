@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/92c83760-1f55-4619-a556-d6eaaf13412a)# Bookstore E-Commerce Website
+![CleanShot 17-11-2024--at 5 -23-59](https://github.com/user-attachments/assets/25034622-4fea-4ea1-83a3-bb9fc67d3b66)# Bookstore E-Commerce Website
 
 ## Repository Link
 [Bookstore Website](https://github.com/CoutProgramming/Bookstore_Website.git)
@@ -45,31 +45,30 @@ Below are images showcasing the key functionalities:
 
 ### Web Interface
 - **Books and Categories Interface**  
-  ![Books and Categories](![image](https://github.com/user-attachments/assets/d8025d75-c1ed-49f0-87d0-0175b748ed4f)
+  ![Books and Categories](![CleanShot 17-11-2024--at 5 -17-21](https://github.com/user-attachments/assets/9864eee6-f6d9-41df-a433-caee41d487bd)
 )
 
 - **Foreign Language Book Category**  
-  ![Foreign Language Books](![image](https://github.com/user-attachments/assets/46657813-27e6-4ef2-927c-9457d99a0710)
+  ![Foreign Language Books](![CleanShot 17-11-2024--at 5 -17-36](https://github.com/user-attachments/assets/aca693a6-0c61-43e0-bc51-d4c24a5ff4d8)
 )
-
 - **Customer Contact and Feedback**  
-  ![Customer Feedback](![image](https://github.com/user-attachments/assets/968fda30-01e0-40ba-99c8-55043da4d80e)
+  ![Customer Feedback](![CleanShot 17-11-2024--at 5 -18-30](https://github.com/user-attachments/assets/87e2278c-990e-4f8c-87f0-48ecd989291f)
 )
 
 - **Search Bar for Books**  
-  ![Search Bar](![image](https://github.com/user-attachments/assets/cbf780b2-2fd1-4d42-a0cd-93084ecd98e5)
+  ![Search Bar](![CleanShot 17-11-2024--at 5 -19-14](https://github.com/user-attachments/assets/0aac31bf-d31c-46bd-9018-711b0e13bb06)
 )
 
 - **Member Registration Interface**  
-  ![Registration Interface](![image](https://github.com/user-attachments/assets/5ddbd0fa-3f60-4322-b9ab-7a4b769802d0)
+  ![Registration Interface](![CleanShot 17-11-2024--at 5 -19-36](https://github.com/user-attachments/assets/acce66f0-5192-4c67-b053-84c5445b5f2a)
 )
 
 - **Login Interface**  
-  ![Login Interface](![image](https://github.com/user-attachments/assets/1a6409fe-14f2-4b3e-b578-1484aad9c3cc)
+  ![Login Interface](![CleanShot 17-11-2024--at 5 -20-00](https://github.com/user-attachments/assets/991399e2-7fd3-4cdc-a109-1aedbe5d5318)
 )
 
 - **Customer Information Interface**  
-  ![Customer Information](![image](https://github.com/user-attachments/assets/5899543b-8d3d-4333-bd51-ccb567521343)
+  ![Customer Information](![CleanShot 17-11-2024--at 5 -20-17](https://github.com/user-attachments/assets/ca14b529-ec57-4c4e-bac0-cfafd95a62d3)
 )
 
 - **Shopping Cart Interface**  
@@ -77,7 +76,7 @@ Below are images showcasing the key functionalities:
 )
 
 - **Order Information Form**  
-  ![Order Information](![image](https://github.com/user-attachments/assets/da2576c1-2f79-4cd9-9d85-d7d19de83330)
+  ![Order Information](![CleanShot 17-11-2024--at 5 -21-00](https://github.com/user-attachments/assets/ff1c6efd-5148-4565-9b55-9149fb499b6e)
 )
 
 - **Payment Options**  
@@ -97,27 +96,27 @@ Below are images showcasing the key functionalities:
 ### Admin Interface
 
 - **Admin Login Interface**  
-  ![Admin Login](![image](https://github.com/user-attachments/assets/199acf2c-6015-4f81-b0d1-f1124a87040a)
+  ![Admin Login](![CleanShot 17-11-2024--at 5 -21-45](https://github.com/user-attachments/assets/a51fbb41-2851-4612-a086-17d846390e90)
 )
 
 - **Admin Dashboard**  
-  ![Admin Dashboard](![image](https://github.com/user-attachments/assets/98fda9fe-4969-4777-ba75-08ce221e83ed)
+  ![Admin Dashboard](![CleanShot 17-11-2024--at 5 -22-11](https://github.com/user-attachments/assets/7bce3a06-d347-4ce3-b04c-70430603eb4c)
 )
 
 - **Product Management Interface**  
-  ![Product Management](![image](https://github.com/user-attachments/assets/57e972df-887a-4798-a78a-0e52ae23d03b)
+  ![Product Management](![CleanShot 17-11-2024--at 5 -23-16](https://github.com/user-attachments/assets/62e70dde-76b6-4d46-b430-d2ad33010bf7)
 )
 
 - **Category Management Interface**  
-  ![Category Management](![image](https://github.com/user-attachments/assets/383f6587-479f-481c-abbd-19b8c47c72ed)
+  ![Category Management](![CleanShot 17-11-2024--at 5 -23-36](https://github.com/user-attachments/assets/0a4595de-bb76-4d8c-b56b-b378ad2e569e)
 )
 
 - **Author Management Interface**  
-  ![Author Management](![image](https://github.com/user-attachments/assets/1c094644-c33e-4521-bb5a-4debaa863755)
+  ![Author Management](![CleanShot 17-11-2024--at 5 -23-59](https://github.com/user-attachments/assets/07cf49fd-1c85-464f-a402-f020e60540b6)
 )
 
 - **Publisher Management Interface**  
-  ![Publisher Management](![image](https://github.com/user-attachments/assets/27c71a7e-94ba-4427-8100-e016ccf971f2)
+  ![Publisher Management](![CleanShot 17-11-2024--at 5 -24-19](https://github.com/user-attachments/assets/90e738c7-6fac-4ce7-9af5-cc0669e77293)
 )
 
 - **User List Management Interface**  
@@ -125,11 +124,11 @@ Below are images showcasing the key functionalities:
 )
 
 - **Order Management Interface**  
-  ![Order Management](![image](https://github.com/user-attachments/assets/89fa9324-d24e-4197-87f6-ad0e1d7113e0)
+  ![Order Management](![CleanShot 17-11-2024--at 5 -24-46](https://github.com/user-attachments/assets/a3fa87ef-cc39-4f35-847c-37f0679b5044)
 )
 
 - **Customer Feedback Management**  
-  ![Feedback Management](![image](https://github.com/user-attachments/assets/28c67e36-77b8-4ba5-bc81-3517f2926adf)
+  ![Feedback Management](![CleanShot 17-11-2024--at 5 -25-06](https://github.com/user-attachments/assets/314e043c-6aea-442f-9313-4dcbff9558a9)
 )
 
 ---
